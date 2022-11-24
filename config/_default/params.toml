@@ -62,6 +62,7 @@ mainSections = ["posts"]
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = true
   showTableOfContents = false
