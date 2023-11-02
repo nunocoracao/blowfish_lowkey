@@ -20,5 +20,5 @@ dateFormat = "2 January 2006"
    links = [
      { link = "https://nunocoracao.github.io/blowfish/" },
      { github = "https://github.com/nunocoracao/blowfish" },
-     { twitter = "https://twitter.com/burufugu" }
+     { x-twitter = "https://twitter.com/burufugu" }
    ]
